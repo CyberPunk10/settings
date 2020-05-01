@@ -1,0 +1,23 @@
+Шрифт: 'SourceCodePro-Medium', ＭＳ ゴシック, 'MS Gothic', monospace
+
+Apps:
+Autosave Files on Window Blur
+Bootstrap Starter Template
+Brackets Color Palette
+Brackets Font
+Brackets Snippets (by edc)
+Brackets Snoppets (by zaggino)
+colorHints
+Custom Work (всего одна галка Show tooltip (horizontal tabs)
+Emmet
+Indent Guedes
+Less AutoComplite
+Minimap
+New Moon
+Overscroll
+Spacegray-Brackets
+Special Html Characters
+Watson
+Yeterday Morning
+Quick Search
+
